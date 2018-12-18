@@ -23,4 +23,19 @@ final class KarumiHQsTest extends TestCase
       );
     });
   }
+
+  public function testShouldKeepTheOfficeName(): void
+  {
+    $this->forAll(
+      Generator\names()
+    )
+    ->then(function ( $name ) {
+      $office = new KarumiHQs( $name );
+      $this->assertEquals(
+        $name,
+        $office->getName(),
+        "KarumiHQs should keep the office name (\"$name\")."
+      );
+    });
+  }
 }
