@@ -10,7 +10,7 @@ final class Developer
   ( $in_name, $in_maxibonsToGrab )
   {
     $this->name = $in_name;
-    $this->maxibonsToGrab = $in_maxibonsToGrab;
+    $this->maxibonsToGrab = max( 0, $in_maxibonsToGrab );
   }
 
   public function __destruct()
