@@ -48,6 +48,13 @@ Your task as PHP Developer is to resolve this problem or test an already impleme
 
 **This repository is ready to build the application, pass the checkstyle and your tests in Travis-CI environments.**
 
+# Dedicated to...
+
+This PHP kata is dedicated to **Noa**, @JoseManuelGonzalezCantarero's son whose name i'll never forget again... ;)
+
+**Hope to see you between us soon Manu!! <3<3<3**
+
+
 # License
 
 Copyright 2018 Karumi & The Cocktail Global
