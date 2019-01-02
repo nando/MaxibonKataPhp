@@ -50,7 +50,7 @@ Your task as PHP Developer is to resolve this problem or test an already impleme
 
 # Dedicated to...
 
-This PHP kata is dedicated to **Noa**, @JoseManuelGonzalezCantarero's son whose name i'll never forget again... ;)
+This PHP kata is dedicated to **Noah**, @JoseManuelGonzalezCantarero's son whose name i'll never forget again... ;)
 
 **Hope to see you between us soon Manu!! <3<3<3**
 
